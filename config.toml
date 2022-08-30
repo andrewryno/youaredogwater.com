@@ -1,0 +1,4 @@
+baseURL = 'https://youaredogwater.com/'
+languageCode = 'en-us'
+title = "You are dog water"
+theme = 'hello-friend-ng'
